@@ -12,7 +12,7 @@ The dashboard allows users to select and visualize different indicators under SD
 - **Analysis**: Displays changes concerning each indicator and other selected indicators over time for chosen countries. Users can filter data by gender, region, and specific health indicators for detailed analysis.
 - **Visualizations**: Displays changes concerning each indicator and other selected indicators over time for chosen countries.
 - **Functionality**: Users can filter data by gender, region, and specific health indicators for more detailed analysis.
-- 
+
 ### Page 2: Analysis by Continent
 - **Visualizations**: A continental breakdown of indicators from 2000 to 2023.
 - **Insights**: Highlights the continents with the highest values concerning the indicators, particularly Africa and Asia.

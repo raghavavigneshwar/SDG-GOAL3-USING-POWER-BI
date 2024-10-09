@@ -7,16 +7,14 @@ This repository contains the Power BI dashboard for **Sustainable Development Go
 The dashboard allows users to select and visualize different indicators under SDG 3 using slicers. This feature enables the exploration of various health-related metrics, providing flexibility in analysis.
 
 ### Page 1: Analysis on India and Neighboring Countries
-- **Visualizations**: Trends over time for countries in South Asia, comparing them to the world average.
+- **Visualizations**: Trends over time for countries in South Asia, comparing them to the world average. Displays changes concerning each indicator and other selected indicators over time for chosen countries.
 - **Key Focus Countries**: Bangladesh, Bhutan, China, India, Nepal, Pakistan, and Sri Lanka.
 - **Analysis**: Displays changes concerning each indicator and other selected indicators over time for chosen countries. Users can filter data by gender, region, and specific health indicators for detailed analysis.
-- **Visualizations**: Displays changes concerning each indicator and other selected indicators over time for chosen countries.
 - **Functionality**: Users can filter data by gender, region, and specific health indicators for more detailed analysis.
 
 ### Page 2: Analysis by Continent
-- **Visualizations**: A continental breakdown of indicators from 2000 to 2023.
+- **Visualizations**: A continental breakdown of indicators from 2000 to 2023. Displays changes concerning each indicator and other selected indicators over time for chosen continents.
 - **Insights**: Highlights the continents with the highest values concerning the indicators, particularly Africa and Asia.
-- **Visualizations**: Displays changes concerning each indicator and other selected indicators over time for chosen continents.
 - **Functionality**: Users can filter data by gender, region, and specific health indicators for more detailed analysis.
 
 ### Page 3: Top & Bottom Countries
